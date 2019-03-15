@@ -46,7 +46,7 @@ Wusste nicht, dass es so eine Auswertung schon mal gegeben habe. Verwies darauf,
 
 ## Die Repo enthält folgende Elemente: 
 
-### Nutztiere Datenaufbereitung.ipynb:
+### Nutztiere Datenaufbereitung.ipynb: 
 Code für Bereinigung/Zusammenstellung der Daten 
 
 ### Nutztiere Auswertung.ipynb:
