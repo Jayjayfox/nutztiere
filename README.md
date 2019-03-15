@@ -44,9 +44,28 @@ Zusammenhang zwischen Betrieben und Anzahl Tieren - war praktisch nicht möglich
 Arthur Zesiger, Bundesamt für Statistik:
 Wusste nicht, dass es so eine Auswertung schon mal gegeben habe. Verwies darauf, dass die Daten von den Kantonen kommen und auf Gemeindeebene am anfälligsten sind für Fehler. Bei extremen Zahlen sicher kurz nachprüfen. Sah einen weiteren (kleinen) Knackpunkt betreffend der Betriebsstandorte, welche ausschlaggebend sind für die Statistik und nicht der Ort, an welchem sich das Tier effektiv befindet. Dies vor allem bei Grossbetrieben mit weit verteilten Feldern/Weiden. Auswertung der bfs-Kategorie “übrige Tiere”, weil dort die Spanne an Arten so gross sei. Aufschlüsselung sei dann aufwändig.
 
-## Datensatz und Programmiercode
+## Die Repo enthält folgende Elemente: 
 
-Zusammengestellte Excels vom bfs, bearbeitete CSV-Files, Shapefiles und Code: Siehe oben
+# Nutztiere Datenaufbereitung.ipynb:
+Code für Bereinigung/Zusammenstellung der Daten 
+
+# Nutztiere Auswertung.ipynb:
+Code für Auswertung der Daten inkl. Geopandas und plotten
+
+# Rohdaten (Ordner):
+Rohdaten vom Bundesamt für Statistik als csv (BevölkerungEntwicklung, TiereEntwicklung, schweiztieretotal), sowie Bereinigung Einwohner für alle Gemeinden (einwohnerfehlen, nutztieremitalleneinwohnern)
+
+# BereinigteDaten (Ordner):
+Bereinigter Datensatz als csv
+
+# Auswertungen (Ordner):
+Auswertungen der Daten pro Tierart/Betrieb als csv
+
+# shp:
+Shapefile für die Schweiz
+
+# Spidercheck
+PNG des Spiderchecks fürs Hochladen ins Readme
 
 ## Arbeitsprotokoll
 
