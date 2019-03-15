@@ -46,25 +46,25 @@ Wusste nicht, dass es so eine Auswertung schon mal gegeben habe. Verwies darauf,
 
 ## Die Repo enthält folgende Elemente: 
 
-# Nutztiere Datenaufbereitung.ipynb:
+### Nutztiere Datenaufbereitung.ipynb:
 Code für Bereinigung/Zusammenstellung der Daten 
 
-# Nutztiere Auswertung.ipynb:
+### Nutztiere Auswertung.ipynb:
 Code für Auswertung der Daten inkl. Geopandas und plotten
 
-# Rohdaten (Ordner):
+### Rohdaten (Ordner):
 Rohdaten vom Bundesamt für Statistik als csv (BevölkerungEntwicklung, TiereEntwicklung, schweiztieretotal), sowie Bereinigung Einwohner für alle Gemeinden (einwohnerfehlen, nutztieremitalleneinwohnern)
 
-# BereinigteDaten (Ordner):
+### BereinigteDaten (Ordner):
 Bereinigter Datensatz als csv
 
-# Auswertungen (Ordner):
+### Auswertungen (Ordner):
 Auswertungen der Daten pro Tierart/Betrieb als csv
 
-# shp:
+### shp:
 Shapefile für die Schweiz
 
-# Spidercheck
+### Spidercheck
 PNG des Spiderchecks fürs Hochladen ins Readme
 
 ## Arbeitsprotokoll
