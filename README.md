@@ -91,7 +91,5 @@ Auswertungen der Daten pro Tierart/Betrieb als csv
 ### shp:
 Shapefile für die Schweiz
 
-
-## Arbeitsprotokoll
-
-siehe Arbeitsprotokoll.pdf
+### Arbeitsprotokoll
+Arbeitsprotokoll.pdf
