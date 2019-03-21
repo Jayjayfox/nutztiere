@@ -50,10 +50,10 @@ Zudem eine Übersicht mit Eckpunkten zu den jeweiligen Tieren und deren Verteilu
 
 ## Knackpunkte
 
-Entwicklung über die Jahre mit den Gemeindefusionen und sagt die wirklich etwas aus: 
+Entwicklung über die Jahre mit den Gemeindefusionen und sagt die wirklich etwas aus:
 Ich entschied mich am Ende – mit Ausnahme der Gesamtanzahl der Tiere –, die Entwicklung über die letzten 20 Jahre wegzulassen und beschränkte mich auf die aktuellsten Daten von 2017. Diese zeigen auch schön, bei welchen Tieren es Hotspots gibt oder nicht.
  
-Die Frage nach der Anzahl Grafiken im Artikel: 
+Die Frage nach der Anzahl Grafiken im Artikel:
 Erst dachte ich, eine mit der Gesamtnutztierzahl und vielleicht noch eine für Rinder dürfte schon reichen. Da die Verteilung der Tiere aber je nach Art sehr unterschiedlich ist und Geflügel und mit Abstrichen Schweine grundsätzlich in viel grösseren, Pferde und Ziegen in viel kleineren Mengen gehalten werden, machten einzelne Grafiken auf Gemeindeebene Sinn. Darunter gelitten haben die kantonalen Auswertungen, welche wegfielen.
 
 Geflügel als Überflieger: 
